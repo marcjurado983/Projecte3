@@ -9,5 +9,5 @@ Aquest projecte tracta la implementació d’un gestor de contrasenyes per millo
 - Guia d’ús tècnica:
 - Imatges de suport: A LA CARPETA IMG/
 
-- [Informe)](informe/README.md)
+- [Informe)](informe/informe.md)
 - [Guia ](guia/README.md)
