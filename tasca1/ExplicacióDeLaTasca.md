@@ -10,4 +10,4 @@ Aquest projecte tracta la implementació d’un gestor de contrasenyes per millo
 - Imatges de suport: A LA CARPETA IMG/
 
 - [Informe)](informe/informe.md)
-- [Guia](guia/guia.md)
+- [Guia](Guia/guia.md)
