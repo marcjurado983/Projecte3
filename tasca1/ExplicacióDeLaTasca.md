@@ -1,21 +1,10 @@
-  
-## Tasca 01 - Gestió de Contrasenyes
+  # Projecte Gestor de Contrasenyes
 
-## Descripció
-Aquest projecte tracta la implementació d’un gestor de contrasenyes per millorar la seguretat del personal tècnic d’EverPia després d’un incident de fuita d’informació.
-
-## Contingut
-- Imatges de suport: A LA CARPETA IMG/
-- [Informe)](informe/informe.md)
-- [Guia](Guia/guia.md)
-
-# Projecte Gestor de Contrasenyes
-
-## Fase 1: Anàlisi i Justificació (Informe tècnic)
+## Fase 1: Anàlisi i Justificació (Informe tècnic) [Informe)](informe/informe.md)
 
 Aquest informe ha de justificar tècnicament per què és necessari un gestor de contrasenyes i comparar les opcions disponibles.
 
-# Què cal incloure?
+### Què cal incloure?
 
 1. **Introducció i Justificació**
    - Explicar per què les contrasenyes febles o reutilitzades són un risc crític (ex. atacs de diccionari, credential stuffing).
@@ -34,7 +23,7 @@ Aquest informe ha de justificar tècnicament per què és necessari un gestor de
 
 ---
 
-## Fase 2: Guia d’Ús Tècnica (Manual operatiu)
+## Fase 2: Guia d’Ús Tècnica (Manual operatiu) [Guia](Guia/guia.md)
 
 Crear una guia clara per a l’equip tècnic basada en l’eina escollida a la Fase 1 (Bitwarden, KeePassX, etc).
 
@@ -62,4 +51,10 @@ Crear una guia clara per a l’equip tècnic basada en l’eina escollida a la F
 - La Fase 1 és un informe per a la direcció que justifica la decisió.
 - La Fase 2 és un manual per als tècnics que els ajuda a usar l’eina escollida.
 - Si tens dubtes sobre algun punt, pots demanar ajuda per aclarir-los.
+
+
+
+
+
+
 
