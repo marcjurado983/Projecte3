@@ -1,1 +1,10 @@
 
+# Tasca 01 - Gestió de contrasenyes
+
+## Descripció
+Aquest projecte tracta la implementació d’un gestor de contrasenyes per millorar la seguretat del personal tècnic d’EverPia després d’un incident de fuita d’informació.
+
+## Contingut
+- **Informe (Fase 1):** [informe.md](informe.md)
+- **Guia d’ús tècnica (Fase 2):** [guia.md](guia.md)
+- **Imatges de suport:** Carpeta `img/`
