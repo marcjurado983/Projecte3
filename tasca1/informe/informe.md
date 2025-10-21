@@ -15,3 +15,31 @@ Per això és important usar un **gestor de contrasenyes**. Aquestes eines creen
 ## 2. Comparativa Tècnica
 
 ![Comparativa](img/imatge1.png)
+
+## 3. Avantatges i Inconvenients
+
+### Bitwarden
+
+**Avantatges:**
+
+- 
+- 
+- 
+
+**Inconvenients:**
+
+- 
+- 
+
+### KeePassXC
+
+**Avantatges:**
+
+- 
+- 
+- 
+
+**Inconvenients:**
+
+- 
+- 
