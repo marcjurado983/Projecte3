@@ -1,5 +1,5 @@
 
-Informe: Anàlisi i Justificació de l’Ús d’un Gestor de Contrasenyes
+## Informe: Anàlisi i Justificació de l’Ús d’un Gestor de Contrasenyes
 
 ## 1. Introducció i Justificació
 
