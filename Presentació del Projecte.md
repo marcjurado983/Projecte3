@@ -20,3 +20,78 @@ El vostre dia a dia?
 Apagar focs, resoldre incidències, respondre tickets, mantenir sistemes, documentar-ho tot (abans que algú formategi per error) i, si queda temps, aprendre a no perdre els nervis.
 És la vida real dins una empresa IT:  el caos ben documentat.
 
+# 🎯 Missió del Projecte — EverPia 2
+
+> **“Si sobrevius a això... pots sobreviure a qualsevol empresa.”**
+
+---
+
+## 🧭 Introducció
+
+Aquest projecte és la **segona temporada** d’una sèrie que acaba d’arrencar.  
+Si **EverPia 1** era sobre *construir*, **EverPia 2** és sobre **sobreviure**.
+
+La vostra missió és demostrar que sou capaços de:
+
+- 🔧 **Resoldre problemes reals** d’una infraestructura IT.  
+- 🧱 **Gestionar serveis essencials** (DNS, LDAP, LVM…).  
+- 🧩 **Treballar amb rigor tècnic i metodologia àgil.**  
+- 😌 **Mantenir la calma mentre tot sembla fallar.**
+
+Perquè el coneixement és important, sí...  
+Però la **serenitat** és un **servei premium**. 🧘‍♂️
+
+---
+
+## 💡 Objectius Formatius
+
+A **EverPia 2**, aprendre no és suficient: cal **dominar**.  
+Els objectius principals són:
+
+1. 🧠 **Consolidar coneixements avançats** en sistemes, xarxes i serveis corporatius.  
+2. ⚙️ **Aplicar tècniques reals** de manteniment i optimització de servidors.  
+3. 🧩 **Resoldre problemes complexos sota pressió.**  
+4. 📝 **Practicar la documentació tècnica professional** amb GitHub i Markdown.  
+5. 🤝 **Desenvolupar competències clau:** treball en equip, responsabilitat, organització i autonomia.
+
+---
+
+## 🧑‍💼 Filosofia EverPia 2
+
+A **EverPia 2** ja **no hi ha professors**:  
+hi ha **caps de projecte**, **companys de suport tècnic** i **clients impacients**.
+
+> - Cada **error** és una oportunitat per aprendre.  
+> - Cada **pantalla blava** és un examen de serenitat.  
+> - Cada **“no sé què ha passat, però ara funciona”** és un triomf silenciós.
+
+Aquest projecte no és només un conjunt de pràctiques:  
+és una **immersió total** en el món real de les empreses IT.
+
+---
+
+## 🧩 Què aprendràs
+
+- Diagnosticar i resoldre incidències en temps real.  
+- Planificar i desplegar serveis corporatius amb eficiència.  
+- Documentar amb claredat, rigor i estil professional.  
+- Treballar sota pressió i mantenir el control tècnic i emocional.  
+
+---
+
+## 🚀 Conclusió
+
+**EverPia 2** no és un repte acadèmic, és una **simulació d’empresa**.  
+Aprendreu que no n’hi ha prou amb saber instal·lar:  
+cal **entendre, prevenir i comunicar**.
+
+> 💬 *“Perquè a EverPia, el lema és clar:*  
+> **Si sobrevius a això... pots sobreviure a qualsevol empresa.** 💪
+
+---
+
+## 🏷️ Tags
+
+`#EverPia2` `#InfraestructuraIT` `#OpenLDAP` `#DNS` `#Sysadmin` `#DevOps` `#AprenentatgeReal`
+
+
