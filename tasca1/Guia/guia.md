@@ -31,24 +31,22 @@ Aquesta guia explica pas a pas com utilitzar KeePassXC Portable per gestionar co
 
 1. entra a la pàgina oficial portable que he utilitzat. 
 2. Descarrega la versió portable windows en el meu cas
-3. Descomprimeix el fitxer `.zip` en una carpeta segura o, per exemple, a **Descàrregues**.
+3. Descomprimeix el fitxer zip en una carpeta segura o, per exemple, a **Descàrregues*.
 
 ## 1. Instal·lació i Configuració Inicial
 
 ### Descàrrega i ús portable
 
-1. Accedeix a la pàgina oficial portable que he utlitzat ![Guia keepassXC](img/captura1.png)
-
+1. Accedeix a la pàgina oficial portable que he utlitzat
 3. Descarrega la versió **Portable** segons windows en el meu cas.
-4. Descomprimeix el fitxer `.zip` en una carpeta segura o a descarregues en el que he fet jo per exemple.
+4. Descomprimeix el fitxer zip en una carpeta segura o a descarregues en el que he fet jo per exemple.
 
-### Crear una nova base de dades (BBDD)
+### Crear una nova base de dades
 
-Quan obres KeePassXC Portable per primer cop, veuràs una pantalla com aquesta:
+Quan obres KeePassXC Portable per primer cop, veuràs una pantalla inicial
 
-![Pantalla inicial de KeePassXC](img/kee_pass_inicial.png)
 
-1. Fes clic a **"Create Database"**.
+1. Fes clic a Create Database.
 2. Introdueix un nom i una descripció per a la base de dades.
 3. Defineix una **contrasenya mestra** segura (no la perdis!).
 4. Desa la base de dades com a fitxer `.kdbx` en una ubicació segura.
