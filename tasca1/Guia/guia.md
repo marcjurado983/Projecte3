@@ -5,14 +5,15 @@
 Aquesta guia explica pas a pas com utilitzar KeePassXC Portable per gestionar contrasenyes de manera segura dins l’equip tècnic.
 
 ---
+## 1. IMATGES DEL PROCEDIMENT I DESPRES EXPLICACIÓ PAS A PAS COM HO HE FET
+
+![Captura de la pàgina oficial](img/captura1.png)
+
 ## 1. Instal·lació i Configuració Inicial
 
 ### Descàrrega i ús portable
 
-1. Accedeix a la pàgina oficial portable que he utilitzat.
-   
-![Captura de la pàgina oficial](img/captura.png)
-
+1. Accedeix a la pàgina oficial portable que he utilitzat. 
 2. Descarrega la versió **Portable** segons el teu sistema operatiu (Windows en el meu cas).
 3. Descomprimeix el fitxer `.zip` en una carpeta segura o, per exemple, a **Descàrregues**.
 
