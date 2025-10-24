@@ -56,9 +56,9 @@ Quan obres KeePassXC Portable per primer cop, veuràs una pantalla inicial
 
 1. Crea una entrada amb el nom "Gmail", per exemple.
 2. Omple els camps:
-   - Nom d’usuari posa
-   - Contrasenya una
-   - URL el que sigui
+   Nom d’usuari posa
+   Contrasenya una
+   URL el que sigui
 3. Desa l’entrada.
 
 ### Desar una credencial d’un servei web o aplicació
@@ -71,7 +71,7 @@ Segueix els mateixos passos que a dalt, canviant el nom i l’URL pel servei con
 
 1. Tanca KeePassXC.
 2. Copia el fitxer .kdbx a un lloc segur:
-   - USB el meu personal
+USB el meu personal
 
 ### Recomanacions que desitjo al fer tot el procediment
 
