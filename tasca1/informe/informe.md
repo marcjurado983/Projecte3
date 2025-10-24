@@ -5,8 +5,8 @@
 
 Les contrasenyes fàcils o repetides són un risc molt gran per a l’empresa. Els hackers utilitzen atacs com per exemple
 
-- **Atac de diccionari:** Proben moltes paraules comunes per endevinar contrasenyes.
-- **Credential stuffing:** Proben contrasenyes robades d’altres llocs per accedir als comptes.
+**Atac de diccionari:** Proben moltes paraules comunes per endevinar contrasenyes.
+**Credential stuffing:** Proben contrasenyes robades d’altres llocs per accedir als comptes.
 
 Si això passa, poden entrar als sistemes i robar informació important.
 
