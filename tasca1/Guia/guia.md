@@ -42,8 +42,6 @@ Quan obres KeePassXC Portable per primer cop, veuràs una pantalla inicial
 3. Posa contrasenya segura.
 4. Desa la base de dades com a fitxer kdbx en una ubicació segura.
 
----
-
 ## 2. Generació de Contrasenyes Segures
 
 1. Obre la base de dades i crea una entrada nova .
@@ -51,8 +49,6 @@ Quan obres KeePassXC Portable per primer cop, veuràs una pantalla inicial
 3. I crear contrasenya segura amb molts digits i caracters
 4. Clica Generar i copia la contrasenya generada.
 5. Desa l’entrada amb el nom del servei i l’usuari.
-
----
 
 ## 3. Exemples d'Ús i Emplenament Automàtic
 
@@ -68,7 +64,6 @@ Quan obres KeePassXC Portable per primer cop, veuràs una pantalla inicial
 ### Desar una credencial d’un servei web o aplicació
 
 Segueix els mateixos passos que a dalt, canviant el nom i l’URL pel servei concret
----
 
 ## 4. Gestió de Còpies de Seguretat (Backup)
 
@@ -84,7 +79,6 @@ Segueix els mateixos passos que a dalt, canviant el nom i l’URL pel servei con
 - Fes còpies setmanals.
 - Desa sempre la còpia en un lloc diferent del fitxer original.
 
----
 
 
 
