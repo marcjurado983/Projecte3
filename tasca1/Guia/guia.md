@@ -8,6 +8,21 @@ Aquesta guia explica pas a pas com utilitzar KeePassXC Portable per gestionar co
 ## 1. IMATGES DEL PROCEDIMENT I DESPRES EXPLICACIÓ PAS A PAS COM HO HE FET
 
 ![Captura de la pàgina oficial](img/captura1.png)
+![Captura de la pàgina oficial](img/captura2.png)
+![Captura de la pàgina oficial](img/captura4.png)
+![Captura de la pàgina oficial](img/captura5.png)
+![Captura de la pàgina oficial](img/captura6.png)
+![Captura de la pàgina oficial](img/captura7.png)
+![Captura de la pàgina oficial](img/captura8.png)
+![Captura de la pàgina oficial](img/captura9.png)
+![Captura de la pàgina oficial](img/captura10.png)
+![Captura de la pàgina oficial](img/captura11.png)
+![Captura de la pàgina oficial](img/captura12.png)
+![Captura de la pàgina oficial](img/captura13.png)
+![Captura de la pàgina oficial](img/captura14.png)
+![Captura de la pàgina oficial](img/captura15.png)
+![Captura de la pàgina oficial](img/captura16.png)
+![Captura de la pàgina oficial](img/captura17.png)
 
 ## 1. Instal·lació i Configuració Inicial
 
