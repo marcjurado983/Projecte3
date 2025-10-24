@@ -11,7 +11,7 @@ Aquesta guia explica pas a pas com utilitzar KeePassXC Portable per gestionar co
 
 1. Accedeix a la pàgina oficial portable que he utilitzat.
    
-   ![Captura de la pàgina oficial](img/captura.png)
+![Captura de la pàgina oficial](img/captura.png)
 
 2. Descarrega la versió **Portable** segons el teu sistema operatiu (Windows en el meu cas).
 3. Descomprimeix el fitxer `.zip` en una carpeta segura o, per exemple, a **Descàrregues**.
