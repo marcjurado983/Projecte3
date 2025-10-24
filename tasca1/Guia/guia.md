@@ -8,6 +8,7 @@ Aquesta guia explica pas a pas com utilitzar KeePassXC Portable per gestionar co
 ## 1. IMATGES DEL PROCEDIMENT I DESPRES EXPLICACIÓ PAS A PAS COM HO HE FET
 
 ![Captura de la pàgina oficial](img/captura1.png)
+![Captura de la pàgina oficial](img/marc.png)
 ![Captura de la pàgina oficial](img/captura2.png)
 ![Captura de la pàgina oficial](img/captura3.png)
 ![Captura de la pàgina oficial](img/captura4.png)
@@ -24,12 +25,12 @@ Aquesta guia explica pas a pas com utilitzar KeePassXC Portable per gestionar co
 ![Captura de la pàgina oficial](img/captura15.png)
 ![Captura de la pàgina oficial](img/captura16.png)
 
-## 1. Instal·lació i Configuració Inicial
+## 1. Primer pas instal·lació i configuració inicial
 
-### Descàrrega i ús portable
+# A dins de el primer pas es descàrrega en ús portable
 
-1. Accedeix a la pàgina oficial portable que he utilitzat. 
-2. Descarrega la versió **Portable** segons el teu sistema operatiu (Windows en el meu cas).
+1. entra a la pàgina oficial portable que he utilitzat. 
+2. Descarrega la versió portable windows en el meu cas
 3. Descomprimeix el fitxer `.zip` en una carpeta segura o, per exemple, a **Descàrregues**.
 
 ## 1. Instal·lació i Configuració Inicial
