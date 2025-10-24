@@ -10,9 +10,10 @@ Aquesta guia explica pas a pas com utilitzar KeePassXC Portable per gestionar co
 
 ### Descàrrega i ús portable
 
-1. Accedeix a la pàgina oficial portable que he utlitzat: https://portableapps.com/downloading/?a=KeePassXCPortable&s=s&p=&d=pa&n=KeePassXC%20Portable&f=KeePassXCPortable_2.7.10.paf.exe
-2. Descarrega la versió **Portable** segons windows en el meu cas.
-3. Descomprimeix el fitxer `.zip` en una carpeta segura o a descarregues en el que he fet jo per exemple.
+1. Accedeix a la pàgina oficial portable que he utlitzat
+   ![Guia keepassXC](img/captura1.png)
+3. Descarrega la versió **Portable** segons windows en el meu cas.
+4. Descomprimeix el fitxer `.zip` en una carpeta segura o a descarregues en el que he fet jo per exemple.
 
 ### Crear una nova base de dades (BBDD)
 
