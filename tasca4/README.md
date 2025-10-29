@@ -1,7 +1,7 @@
 # Implementació d’OpenLDAP a Innovatech
 
-# Per entrar al document UD4:
-# Per entrar al la guia de AA2,AA3,AA4:
+## Per entrar al document UD4:
+## Per entrar al la guia de AA2,AA3,AA4:
 
 ## Descripció del projecte
 
