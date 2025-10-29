@@ -1,5 +1,8 @@
 # Implementació d’OpenLDAP a Innovatech
 
+# Per entrar al document UD4:
+# Per entrar al la guia de AA2,AA3,AA4:
+
 ## Descripció del projecte
 
 **Innovatech**, una *start-up* tecnològica emergent, està experimentant un ràpid creixement i pateix un **caos en la gestió dels seus usuaris i accessos**.
@@ -57,12 +60,6 @@ Aquest document està disponible al **plec de condicions tècniques** i també a
 
 ---
 
-##  Tecnologies utilitzades
-
-- **GNU/Linux**
-- **OpenLDAP**
-- **LDAP Utils**
-- **Authconfig / PAM / NSS**
 
 ---
 
