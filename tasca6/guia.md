@@ -24,13 +24,12 @@ principalment per començar hem de fer un apt update per actualitzar i seguidame
 #### Captura:
 ![Consulta bàsica A](./img/captura100.png)
 
-#### Anàlisi:
 
 #### Explicació
 xtec.cat és el domini que es consulta.  
 El tipus de registre és A, que retorna la seva adreça IP que ens dona.
 
-#### 🧠 Has d’identificar:
+#### Has d’identificar:
 - **IP de resposta:** 83.247.151.214  
 - **TTL:** 3600 segons  és el temps que el registre es guarda en memòria cau.  
 - **Servidor que ha respost:** el que surt després de SERVER, en aquest cas 8.8.8.8.
@@ -43,8 +42,16 @@ El tipus de registre és A, que retorna la seva adreça IP que ens dona.
 #### Captura:
 ![Consulta NS tecnocampus](./img/captura101.png)
 ![Consulta NS tecnocampus](./img/captura101,5.png)
-#### Anàlisi:
-_(Escriu aquí la teva anàlisi sobre quins són els servidors de noms autoritatius del domini.)_
+
+#### Explicació
+Aquesta consulta mostra quins són els **servidors de noms autoritatius** per al domini **tecnocampus.cat**.  
+Permet identificar quins servidors contenen la informació DNS original del domini.
+
+#### Anàlisi
+- Els servidors de noms autoritatius del domini tecnocampus.cat que són 
+  ns1.tecnocampus.cat  i ns2.tecnocampus.cat
+
+- El TTL dels registres NS indica quant de temps poden estar en memòria.  
 
 ---
 
@@ -53,8 +60,11 @@ _(Escriu aquí la teva anàlisi sobre quins són els servidors de noms autoritat
 #### Captura:
 ![Consulta SOA escolapia](./img/captura102.png)
 
-#### Anàlisi:
-_(Escriu aquí la teva anàlisi sobre la informació del correu de l’administrador i el número de sèrie del domini.)_
+#### Explicació
+El registre SOA ens ensenya el servidor DNS principal del domini i tamnbe te dades administratives importants, com el correu de contacte i el número de sèrie.
+
+#### Anàlisi 
+- Aquest registre indica la configuració de sincronització dels servidors secundaris i la caducitat de les dades DNS amb el correu administrador i més registres de SOA
 
 ---
 
@@ -64,14 +74,18 @@ _(Escriu aquí la teva anàlisi sobre la informació del correu de l’administr
 ![Consulta inversa](./img/captura103.png)
 ![Consulta inversa](./img/captura103.5.png)
 
-#### Anàlisi:
-_(Escriu aquí la teva anàlisi sobre la informació obtinguda dels registres inversos.)_
+#### Explicació
+La resolució inversa t'ajuda a obtenir el nom de domini que va amb la adreça ip.
+
+#### Anàlisi
+- La IP  correspon al nom de domini
+- El resultat confirma que la resolució inversa està configurada be i que la IP pertany a la xarxa que toca.  
 
 ---
 
 ## Comprovació de Resolució amb NSLOOKUP
 
-L’eina **NSLOOKUP** permet fer consultes DNS tant en mode directe com interactiu, i és multiplataforma.
+L’eina NSLOOKUP permet fer consultes DNS
 
 ---
 
@@ -82,7 +96,16 @@ L’eina **NSLOOKUP** permet fer consultes DNS tant en mode directe com interact
 
 ![Consulta bàsica no autoritativa](./img/captura104.5.png)
 #### Anàlisi:
-_(Escriu aquí la teva anàlisi sobre per què la resposta és no autoritativa.)_
+
+#### Explicació
+La consulta es realitza amb nslookup amb el registre A i demanant la IP del domini en el nostre cas tecnocampus.cat.  
+Si la resposta no prové d’un servidor de noms autoritatiu, es veu com no autoritativa.
+
+#### Anàlisi
+- Servidor DNS utilitzat: 8.8.8.8 que es la publica
+- Resposta no autoritativa: la informació ve d’un servidor, no del servidor autoritatiu del domini.  
+- IP retornada: 147.83.2.135  
+
 
 ---
 
@@ -97,7 +120,15 @@ _(Escriu aquí la teva anàlisi sobre per què la resposta és no autoritativa.)
 
 ![Consulta autoritativa](./img/captura105.7.png)
 #### Anàlisi:
-_(Escriu aquí la teva anàlisi sobre les diferències observades respecte a la consulta no autoritativa.)_
+
+#### Explicació
+Aquesta consulta es fa nslookup directament a un servidor de noms autoritatiu per tenir una resposta directa del domini.
+
+#### Anàlisi
+- Servidor utilitzat el de tecnocampus
+- Resposta autoritativa: el camp authoritative answer confirma que la informació qie ve directament del servidor del domini.  
+- IP retornada la mateix del servidor que volem la de abans.  .  
+
 
 ---
 ### Resolucions locals
