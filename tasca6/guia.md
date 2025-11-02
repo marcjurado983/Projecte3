@@ -60,7 +60,7 @@ L’eina **NSLOOKUP** permet fer consultes DNS tant en mode directe com interact
 
 #### Captura:
 ![Consulta bàsica no autoritativa](./img/captura104.png)
-
+![Consulta bàsica no autoritativa](./img/captura104.5.png)
 #### Anàlisi:
 _(Escriu aquí la teva anàlisi sobre per què la resposta és no autoritativa.)_
 
@@ -70,7 +70,9 @@ _(Escriu aquí la teva anàlisi sobre per què la resposta és no autoritativa.)
 
 #### Captura:
 ![Consulta autoritativa](./img/captura105.png)
-
+![Consulta autoritativa](./img/captura105.5.png)
+![Consulta autoritativa](./img/captura105.6.png)Ç
+![Consulta autoritativa](./img/captura105.7.png)
 #### Anàlisi:
 _(Escriu aquí la teva anàlisi sobre les diferències observades respecte a la consulta no autoritativa.)_
 
