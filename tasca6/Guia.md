@@ -104,7 +104,7 @@ Si la resposta no ve d’un servidor de noms autoritatiu, es veu com no autorita
 #### Anàlisi
 Servidor DNS utilitzat: 8.8.8.8 que es la publica
 Resposta no autoritativa: la informació ve d’un servidor, no del servidor autoritatiu del domini.  
-IP retornada: 147.83.2.135  
+IP retornada la del principi
 
 
 ---
@@ -127,7 +127,7 @@ Aquesta consulta es fa nslookup directament a un servidor de noms autoritatiu pe
 #### Anàlisi
 Servidor utilitzat el de tecnocampus
 Resposta autoritativa: el camp authoritative answer confirma que la informació qie ve directament del servidor del domini.  
-IP retornada la mateix del servidor que volem la de abans.  .  
+IP retornada la mateix del servidor que volem la de abans.  
 
 
 ---
