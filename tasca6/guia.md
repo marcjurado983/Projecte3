@@ -30,9 +30,9 @@ xtec.cat és el domini que es consulta.
 El tipus de registre és A, que retorna la seva adreça IP que ens dona.
 
 #### Has d’identificar:
-- **IP de resposta:** 83.247.151.214  
-- **TTL:** 3600 segons  és el temps que el registre es guarda en memòria cau.  
-- **Servidor que ha respost:** el que surt després de SERVER, en aquest cas 8.8.8.8.
+- IP de resposta: 83.247.151.214  
+- TTL: 3600 segons  és el temps que el registre es guarda en memòria cau.  
+- Servidor que ha respost: el que surt després de SERVER, en aquest cas 8.8.8.8.
 
 
 ---
