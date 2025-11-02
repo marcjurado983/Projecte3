@@ -134,6 +134,7 @@ IP retornada la mateix del servidor que volem la de abans.
 ### Resolucions locals
 
 ![Consulta autoritativa](./img/captura105.5.png)
+![Consulta autoritativa](./img/captura111.png)
 
 Farem un ping al server, aixo permet comprovar el funcionament útil per entorns de xarxa local on no es disposa de servidor de noms propi i que evita haver d’accedir a equips o recursos per la seva IP.
 
