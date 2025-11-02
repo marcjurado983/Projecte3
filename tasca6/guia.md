@@ -25,7 +25,16 @@ principalment per començar hem de fer un apt update per actualitzar i seguidame
 ![Consulta bàsica A](./img/captura100.png)
 
 #### Anàlisi:
-_(Escriu aquí la teva anàlisi sobre la IP, el TTL i el servidor que ha respost a la consulta.)_
+
+#### Explicació
+xtec.cat és el domini que es consulta.  
+El tipus de registre és A, que retorna la seva adreça IP que ens dona.
+
+#### 🧠 Has d’identificar:
+- **IP de resposta:** 83.247.151.214  
+- **TTL:** 3600 segons  és el temps que el registre es guarda en memòria cau.  
+- **Servidor que ha respost:** el que surt després de SERVER, en aquest cas 8.8.8.8.
+
 
 ---
 
@@ -91,6 +100,9 @@ _(Escriu aquí la teva anàlisi sobre per què la resposta és no autoritativa.)
 _(Escriu aquí la teva anàlisi sobre les diferències observades respecte a la consulta no autoritativa.)_
 
 ---
+### Resolucions locals
 
+![Consulta autoritativa](./img/captura105.5.png)
 
+Farem un ping al server, aixo permet comprovar el funcionament útil per entorns de xarxa local on no es disposa de servidor de noms propi i que evita haver d’accedir a equips o recursos per la seva IP.
 
