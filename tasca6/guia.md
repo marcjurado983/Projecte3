@@ -1,5 +1,5 @@
 # Diagnosi Avançada amb DIG i NSLOOKUP
-### Linux / macOS
+### Linux / macOS  MARC JURADO 2N SMX
 
 ---
 
