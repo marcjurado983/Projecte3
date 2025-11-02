@@ -7,6 +7,15 @@
 Pràctica de diagnosi avançada de DNS utilitzant les eines DIG i NSLOOKUP per analitzar registres, servidors de noms, consultes autoritatives i mes
 
 ---
+## Introduccio i coses a saber abans de començar
+![Consulta bàsica A](./img/captura99.png)
+
+![Consulta bàsica A](./img/captura98.png)
+
+#### Que em de fer:
+principalment per començar hem de fer un apt update per actualitzar i seguidament instalar el dig en aquest cas dnsutils -y I JA PODEM COMENÇAR
+
+---
 
 ## A. Diagnosi Avançada amb DIG
 
