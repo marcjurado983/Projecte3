@@ -24,7 +24,7 @@ _(Escriu aquí la teva anàlisi sobre la IP, el TTL i el servidor que ha respost
 
 #### Captura:
 ![Consulta NS tecnocampus](./img/captura101.png)
-
+![Consulta NS tecnocampus](./img/captura101,5.png)
 #### Anàlisi:
 _(Escriu aquí la teva anàlisi sobre quins són els servidors de noms autoritatius del domini.)_
 
