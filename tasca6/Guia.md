@@ -99,7 +99,7 @@ L’eina NSLOOKUP permet fer consultes DNS
 
 #### Explicació
 La consulta es realitza amb nslookup amb el registre A i demanant la IP del domini en el nostre cas tecnocampus.cat.  
-Si la resposta no prové d’un servidor de noms autoritatiu, es veu com no autoritativa.
+Si la resposta no ve d’un servidor de noms autoritatiu, es veu com no autoritativa.
 
 #### Anàlisi
 Servidor DNS utilitzat: 8.8.8.8 que es la publica
