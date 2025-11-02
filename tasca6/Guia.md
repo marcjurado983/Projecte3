@@ -26,11 +26,11 @@ principalment per començar hem de fer un apt update per actualitzar i seguidame
 
 
 #### Explicació
-xtec.cat és el domini que es consulta.  
+xtec.cat és el domini que es consulta.  es la 83.247.151.214
 El tipus de registre és A, que retorna la seva adreça IP que ens dona.
 
 #### Has d’identificar:
-IP de resposta: que es la ip del domini de xtec.cat
+IP de resposta: que es la ip del domini de xtec.cat 
 TTL: 3600 segons  és el temps que el registre es guarda en memòria cau.  
 Servidor que ha respost: el que surt després de SERVER, en aquest cas 8.8.8.8.
 
@@ -44,7 +44,7 @@ Servidor que ha respost: el que surt després de SERVER, en aquest cas 8.8.8.8.
 ![Consulta NS tecnocampus](./img/captura101,5.png)
 
 #### Explicació
-Aquesta consulta mostra quins són els **servidors de noms autoritatius** per al domini **tecnocampus.cat**.  
+Aquesta consulta mostra quins són els servidors de noms autoritatius per al domini tecnocampus.cat.  
 Permet identificar quins servidors contenen la informació DNS original del domini.
 
 #### Anàlisi
