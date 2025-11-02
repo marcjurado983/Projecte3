@@ -45,6 +45,7 @@ _(Escriu aquí la teva anàlisi sobre la informació del correu de l’administr
 #### Captura:
 ![Consulta inversa](./img/captura103.png)
 ![Consulta inversa](./img/captura103.5.png)
+
 #### Anàlisi:
 _(Escriu aquí la teva anàlisi sobre la informació obtinguda dels registres inversos.)_
 
@@ -60,6 +61,7 @@ L’eina **NSLOOKUP** permet fer consultes DNS tant en mode directe com interact
 
 #### Captura:
 ![Consulta bàsica no autoritativa](./img/captura104.png)
+
 ![Consulta bàsica no autoritativa](./img/captura104.5.png)
 #### Anàlisi:
 _(Escriu aquí la teva anàlisi sobre per què la resposta és no autoritativa.)_
