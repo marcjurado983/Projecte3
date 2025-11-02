@@ -30,9 +30,9 @@ xtec.cat és el domini que es consulta.
 El tipus de registre és A, que retorna la seva adreça IP que ens dona.
 
 #### Has d’identificar:
-- IP de resposta: 83.247.151.214  
-- TTL: 3600 segons  és el temps que el registre es guarda en memòria cau.  
-- Servidor que ha respost: el que surt després de SERVER, en aquest cas 8.8.8.8.
+IP de resposta: 83.247.151.214  
+TTL: 3600 segons  és el temps que el registre es guarda en memòria cau.  
+Servidor que ha respost: el que surt després de SERVER, en aquest cas 8.8.8.8.
 
 
 ---
@@ -48,10 +48,10 @@ Aquesta consulta mostra quins són els **servidors de noms autoritatius** per al
 Permet identificar quins servidors contenen la informació DNS original del domini.
 
 #### Anàlisi
-- Els servidors de noms autoritatius del domini tecnocampus.cat que són 
-  ns1.tecnocampus.cat  i ns2.tecnocampus.cat
+Els servidors de noms autoritatius del domini tecnocampus.cat que són 
+ns1.tecnocampus.cat  i ns2.tecnocampus.cat
 
-- El TTL dels registres NS indica quant de temps poden estar en memòria.  
+El TTL dels registres NS indica quant de temps poden estar en memòria.  
 
 ---
 
@@ -64,7 +64,7 @@ Permet identificar quins servidors contenen la informació DNS original del domi
 El registre SOA ens ensenya el servidor DNS principal del domini i tamnbe te dades administratives importants, com el correu de contacte i el número de sèrie.
 
 #### Anàlisi 
-- Aquest registre indica la configuració de sincronització dels servidors secundaris i la caducitat de les dades DNS amb el correu administrador i més registres de SOA
+Aquest registre indica la configuració de sincronització dels servidors secundaris i la caducitat de les dades DNS amb el correu administrador i més registres de SOA
 
 ---
 
@@ -78,8 +78,8 @@ El registre SOA ens ensenya el servidor DNS principal del domini i tamnbe te dad
 La resolució inversa t'ajuda a obtenir el nom de domini que va amb la adreça ip.
 
 #### Anàlisi
-- La IP  correspon al nom de domini
-- El resultat confirma que la resolució inversa està configurada be i que la IP pertany a la xarxa que toca.  
+La IP  correspon al nom de domini
+El resultat confirma que la resolució inversa està configurada be i que la IP pertany a la xarxa que toca.  
 
 ---
 
@@ -102,9 +102,9 @@ La consulta es realitza amb nslookup amb el registre A i demanant la IP del domi
 Si la resposta no prové d’un servidor de noms autoritatiu, es veu com no autoritativa.
 
 #### Anàlisi
-- Servidor DNS utilitzat: 8.8.8.8 que es la publica
-- Resposta no autoritativa: la informació ve d’un servidor, no del servidor autoritatiu del domini.  
-- IP retornada: 147.83.2.135  
+Servidor DNS utilitzat: 8.8.8.8 que es la publica
+Resposta no autoritativa: la informació ve d’un servidor, no del servidor autoritatiu del domini.  
+IP retornada: 147.83.2.135  
 
 
 ---
@@ -125,9 +125,9 @@ Si la resposta no prové d’un servidor de noms autoritatiu, es veu com no auto
 Aquesta consulta es fa nslookup directament a un servidor de noms autoritatiu per tenir una resposta directa del domini.
 
 #### Anàlisi
-- Servidor utilitzat el de tecnocampus
-- Resposta autoritativa: el camp authoritative answer confirma que la informació qie ve directament del servidor del domini.  
-- IP retornada la mateix del servidor que volem la de abans.  .  
+Servidor utilitzat el de tecnocampus
+Resposta autoritativa: el camp authoritative answer confirma que la informació qie ve directament del servidor del domini.  
+IP retornada la mateix del servidor que volem la de abans.  .  
 
 
 ---
