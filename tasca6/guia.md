@@ -72,8 +72,11 @@ _(Escriu aquí la teva anàlisi sobre per què la resposta és no autoritativa.)
 
 #### Captura:
 ![Consulta autoritativa](./img/captura105.png)
+
 ![Consulta autoritativa](./img/captura105.5.png)
-![Consulta autoritativa](./img/captura105.6.png)Ç
+
+![Consulta autoritativa](./img/captura105.6.png)
+
 ![Consulta autoritativa](./img/captura105.7.png)
 #### Anàlisi:
 _(Escriu aquí la teva anàlisi sobre les diferències observades respecte a la consulta no autoritativa.)_
