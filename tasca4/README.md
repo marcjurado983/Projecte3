@@ -70,8 +70,4 @@ Projecte desenvolupat per l’equip tècnic d’**EverPia** per a **Innovatech**
 
 ---
 
-##  Llicència
-
-Aquest projecte utilitza una llicència de codi obert compatible amb l’esperit d’Innovatech.  
-Consulta el fitxer [`LICENSE`](./LICENSE) per a més detalls.
 
