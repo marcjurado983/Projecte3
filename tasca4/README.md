@@ -1,6 +1,6 @@
 # Implementació d’OpenLDAP a Innovatech
 
-## 2. [Requeriments d'Infraestructura Inicial](Guia.md)
+## 2. [Requeriments d'Infraestructura Inicial](2.Requeriments d'Infraestructura Inicial.md)
 ## 3. [Tasques d'Implementació i Configuració del Servidor LDAP](Guia.md)
 ## 4. [Integració de Client (Client Ubuntu Desktop](Guia.md)
 
