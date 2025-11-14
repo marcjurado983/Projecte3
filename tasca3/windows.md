@@ -276,5 +276,3 @@ Per al bufet d'advocats, que gestiona informació legal sensible, recomanem:
 [Guia de LVM](guia_LVM.md)
 
 ---
-
-[Tornar a la pàgina principal del projecte](../)
