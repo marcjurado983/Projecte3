@@ -40,4 +40,5 @@ S'ha d'utilitzar la distribució Zorin OS (o una alternativa Linux compatible) p
 --
 
 [Per tornar a la pagina principal](ExplicacióDeLaTasca.md)
+
 [Guia de Windows](windows.md)
