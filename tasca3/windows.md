@@ -269,10 +269,10 @@ Per al bufet d'advocats, que gestiona informació legal sensible, recomanem:
 
 ---
 
-[Explicació de la tasca](README.md)
+[Explicació de la tasca](ExplicacióDeLaTasca.md)
 
 ---
 
-[Guia de LVM](guia_LVM.md)
+[Guia de LVM](linux.md)
 
 ---
