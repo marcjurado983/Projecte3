@@ -1,5 +1,6 @@
 # P05: Presentació sistemes emmagatzematge
 
+https://github.com/marcjurado983/Projecte3/blob/main/tasca3/Explicaci%C3%B3DeLaTasca.md
 
 En el vostre camí per esdevenir consultors d’infraestructura sènior, heu rebut una tasca de **màxima prioritat** per a un client del sector del disseny.
 
